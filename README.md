@@ -61,6 +61,10 @@ I have hands-on experience with HTML, CSS, JavaScript, TypeScript, Kotlin, and M
 
 ---
 
+## Featured Projects
+
+---
+
 ### [Student Life Manager](https://github.com/Tomas-l-santos/Student-Life-Manager)
 
 A collaborative student productivity platform designed to centralise academic planning, including tasks, deadlines, timetables, modules, and budgeting.
@@ -79,8 +83,6 @@ A collaborative student productivity platform designed to centralise academic pl
 - Git/GitHub collaboration and version control
 
 ---
-
-## Featured Projects
 
 ### [Concert Ticket App (Android – Kotlin)](https://github.com/Tomas-l-santos/ConcertTickets)
 
